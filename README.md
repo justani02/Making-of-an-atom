@@ -19,4 +19,19 @@ First line contains an integer n, the number of particles Second line contains a
 Output Format:
 Print an Integer, the number of particles in the atom
 
+---
+Sample Input 0:
+8 11101111 
+
+Sample Output 0
+6 
+
+One electron disappears with 1 proton, leaving the final size of the atom to be 6.
+
+### Screenshot
+![making of an atom](https://github.com/justani02/making-of-an-atom/assets/110666634/53f1dede-7474-41fc-b5ba-f2c0480cd006)
+
+
+
+
 
